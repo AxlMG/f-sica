@@ -4,3 +4,5 @@
 
 - **ls**
 - **cd**
+```bash
+git clone <url>
