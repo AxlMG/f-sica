@@ -5,9 +5,15 @@
 Unix commands
 
 - **ls**: list the contents of a directory
+- **ls**
+- **cd**
 **cd**: change to another directory
 **pwd**: print the working directory. Show where I am at the moment
 **mkdir**: create a new directory
+```bash
+git clone <url>
+```
+
   ## Git commands
 
 **git clone**: download a repository to the local machine
@@ -21,3 +27,4 @@ git add .
 **git commit** -m "message"
 **git push**: send local changes to github
 **git push** origin main
+
